@@ -1,0 +1,7 @@
+Final Presentation Video (Drive): https://drive.google.com/file/d/1bRhrOs79BcPqBdB1oKsyOX73rzS41x50/view?usp=sharing
+
+Final Presentation Slides (Google Slides): https://docs.google.com/presentation/d/1WoysR6yril4tpPmH4e9sI511D0nsyT8zbfFLs1BK3CE/edit?usp=sharing
+
+Final Code Review Video (Drive): https://drive.google.com/file/d/1I7OWI3eqgnfhiHX9SsVMCP8ZypU5sfT-/view?usp=sharing
+
+Paper is titled Understanding and Expanding the Conditioning Mechanisms in "High-Resolution Image Synthesis with Latent Diffusion Models". Both the PDF and TEX files are available.
